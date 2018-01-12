@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
                 .error(R.drawable.error)
                 .resize(600,600)
                 .into(imageView);
+        s = "capture camera";
 
 
     }
